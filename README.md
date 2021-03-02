@@ -1,2 +1,2 @@
 # ascent_rosdistro
-Ascent internal rosditro files. For now serves only the purpose of rosdep.
+Ascent provided rosdistro files. For now serves only the purpose of rosdep.
