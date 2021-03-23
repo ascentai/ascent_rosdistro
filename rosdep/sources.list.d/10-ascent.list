@@ -1,2 +1,2 @@
-yaml https://raw.githubusercontent.com/ascentai/ascent_rosdistro/master/rosdep/base.yaml
+yaml https://artifactory.ascentrobotics.io/artifactory/rosdep_internal/external-pkg.yaml
 yaml https://artifactory.ascentrobotics.io/artifactory/rosdep_internal/ascent-internal-pkg.yaml
