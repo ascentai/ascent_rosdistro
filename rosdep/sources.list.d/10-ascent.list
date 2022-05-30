@@ -1,4 +1,4 @@
 yaml https://artifactory.ascentrobotics.io/artifactory/rosdep_internal/external-pkg.yaml
 yaml https://artifactory.ascentrobotics.io/artifactory/rosdep_internal/ascent-internal-pkg.yaml
 yaml https://artifactory.ascentrobotics.io/artifactory/rosdep_internal/python-pkg.yaml
-yaml https://raw.githubusercontent.com/ascentai/usagi_pick_place/ascent-protobuf-pip/ascent-protobuf-pip.yaml?token=GHSAT0AAAAAABPZFNJBRO52CI5FU3NB3GAWYUUJERA
+yaml https://raw.githubusercontent.com/ascentai/usagi_pick_place/ascent-protobuf-pip/ascent-protobuf-pip.yaml?token=GHSAT0AAAAAABPZFNJBFVHD66ITZ3CYSGT6YUURFIQ
